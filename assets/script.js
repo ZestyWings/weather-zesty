@@ -190,6 +190,7 @@ var formSubmitHandler = function(event) {
 
 
 buildSearchHistory();
+
 getCurrentWeather("Oceanside");
 
 
